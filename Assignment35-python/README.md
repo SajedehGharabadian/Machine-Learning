@@ -1,13 +1,15 @@
- **Assignment34**
+ **Assignment35**
  
- ⚪COVID:
+ ⚪Iris:
  
- Eight countries with the highest number of covid new cases in the fourth month of 2020
+ Calculation accuracy KNN algorithm with diffrent k
  
- ![image](https://user-images.githubusercontent.com/76538787/164758719-7cc9d331-b877-4989-aca6-2db751270a29.png)
+ ![image](https://user-images.githubusercontent.com/76538787/164985042-00e462d2-d6c0-446e-a7ef-2f2045e388a0.png)
 
-Draw a graph that shows the mortality rate in relation to the number of cases in Iran on different month
 
-![image](https://user-images.githubusercontent.com/76538787/164759774-f90a392d-e269-44c7-9de1-3e130eae7f9e.png)
+⚪ Predict the age of abalone with KNN algorithm
 
- 
+![image](https://user-images.githubusercontent.com/76538787/164986561-a6d842f3-1258-4bf6-8d74-c53139bbe37d.png)
+
+
+
