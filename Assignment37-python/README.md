@@ -12,7 +12,7 @@ Separate customers by city:
 ⚪ Qr Code Reader
 Detect Qr codes and decode Qr codes
 
-![qrcode](https://user-images.githubuserontent.com/76538787/166115873-5db37c88-2f1f-4c41-96f9-da20a024992f.jpg)
+![image](https://user-images.githubusercontent.com/76538787/166116093-e37c04b2-7656-426f-aa38-6f261888bf84.png)
 
 ⚪ Abalone Regression
  LLS algorithm on Abalone Dataset and calculate MAE, MSE, Huber, and Hinge Errors
