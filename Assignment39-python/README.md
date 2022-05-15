@@ -2,7 +2,7 @@
  
  ⚪Weather Forecast
  
- ![image](https://user-images.githubusercontent.com/76538787/168484902-adb2e900-cd74-48af-859d-8c017b89b892.png)
+![image](https://user-images.githubusercontent.com/76538787/168485016-4f863d84-361f-46ab-be09-e37eaba8d9c6.png)
 
 Plot loss diagram
 
