@@ -1,6 +1,6 @@
  **Assignment40**
  
- ⚪Titanic
+ ⚪Titanic 
  
 | Algorithm    |    KNN         |  Perceptron   |   MLP    |
 | :---         |     :---:      |          ---: |  ---:    |
